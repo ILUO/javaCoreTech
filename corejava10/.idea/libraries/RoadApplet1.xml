@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RoadApplet1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/v1ch02/RoadApplet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
